@@ -64,7 +64,7 @@ const Projects = () => {
           <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 2 }} exit={{ opacity: 0 }}>
             <MyWork number="01" h1Class="bg-gradient-to-r from-indigo-500 rounded-sm text-5xl mx-4 lg-mx-0 relative top-5 right-6" img={img3} title="Aditya Damar">
               <div className="flex flex-wrap gap-1">
-                <div className="text-cyan-300 px-2 py-2 rounded-full bg-slate-800">23120027</div>
+                <div className="text-cyan-300 px-2 py-2 rounded-full bg-slate-800">23120041</div>
               </div>
               <button onClick={handleClickDamar} className="text-white mt-3 underline">
                 See more

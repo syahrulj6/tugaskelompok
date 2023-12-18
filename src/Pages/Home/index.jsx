@@ -123,6 +123,10 @@ const Home = () => {
             </div>
             <div className="text-neutral-400 leading-relaxed">
               <p>
+                LDKMM merupakan suatu kegiatan orientasi bagi mahasiswa baru untuk meningkatkan kemampuan dalam menerapkan dasar-dasar <span className="text-white">kepemimpinan</span> serta mempersiapkan mahasiswa/i untuk turut aktif
+                bergabung dalam organisasi kemahasiswaan.
+              </p>
+              <p className="mt-2">
                 di kegiatan ini kita diajarkan beberapa materi seperti manajemen waktu, kepemimpinan, public speaking, dan juga dijelaskan tentang keorganisasian yang ada di fakultas teknik. selain itu kita juga memainkan beberapa fun
                 games.
               </p>
